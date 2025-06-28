@@ -1,0 +1,17 @@
+@media(min-width:768px){
+    .news-input{
+        width: 50%;
+    }
+}
+#mainCarousel .carousel-item img {
+  height: 15vh; /* daha düşük yükseklik */
+  width: 100%;
+  object-fit: cover;
+  object-position: center;
+  display: block;
+}
+@media (max-width: 768px) {
+  #mainCarousel .carousel-item img {
+    height: 30vh;
+  }
+}
