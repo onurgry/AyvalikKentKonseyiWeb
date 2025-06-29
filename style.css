@@ -4,7 +4,7 @@
     }
 }
 #mainCarousel .carousel-item img {
-  height: 15vh; /* daha düşük yükseklik */
+  height: 20vh; /* daha düşük yükseklik */
   width: 100%;
   object-fit: cover;
   object-position: center;
@@ -14,4 +14,19 @@
   #mainCarousel .carousel-item img {
     height: 30vh;
   }
+}
+
+
+body{
+  font-family: Inter;
+}
+
+.carousel-caption {
+  background: rgba(0, 0, 0, 0.2); /* siyah yarı saydam arka plan */
+  padding: 1rem;
+  border-radius: 8px;
+}
+#handwriting{
+  font-family: pacifico;
+  font-size: 18pt;
 }
