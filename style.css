@@ -18,15 +18,14 @@
 
 
 body{
-  font-family: Inter;
+  font-family: poppins;
 }
-
 .carousel-caption {
   background: rgba(0, 0, 0, 0.2); /* siyah yarı saydam arka plan */
   padding: 1rem;
   border-radius: 8px;
 }
 #handwriting{
-  font-family: pacifico;
+  font-family: Edu NSW ACT Cursive;
   font-size: 18pt;
 }
